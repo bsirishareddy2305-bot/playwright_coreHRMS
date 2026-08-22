@@ -13,7 +13,7 @@ import configData from "../config/configData.json";
 const loginPage: LoginPage = new LoginPage();
 const pimPage: PIMPage = new PIMPage();
 
-test("Verify that an employee can be added successfully", async (page) => {
+test("Verify that an employee can be deleted successfully", async (page) => {
 
     // call the Login page
  console.log("delete emp");
